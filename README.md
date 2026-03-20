@@ -1,2 +1,3 @@
-# simple-api-service-be7e
-A REST API service for modern development workflows
+# Simple Api Service Be7E
+
+A REST API service for modern development workflows.
